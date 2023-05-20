@@ -5,7 +5,7 @@ import ctypes as ct
 from pytube import YouTube
 import pyttsx3 as tts
 
-openai.api_key = "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" # Your code api >>> Openai API
+openai.api_key = "" # Your code api >>> Openai API
 
 # Motyw ciemny
 def dark_title_bar(window,you,chat,x,z,c,v):
