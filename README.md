@@ -5,5 +5,10 @@ GUI.py - Main file
 Required Libraries:
 
 tkinter
-pillow
-numpy
+openai
+os
+time
+gtts
+ctypes
+pytube
+pyttsx3
