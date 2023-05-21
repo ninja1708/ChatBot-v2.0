@@ -1,3 +1,9 @@
-# ChatBot-v2.0
-Hello
-Main program - GUI.py
+# ChatBot-v2.0 -Inprogress
+
+GUI.py - Main file
+
+Required Libraries:
+
+tkinter
+pillow
+numpy
