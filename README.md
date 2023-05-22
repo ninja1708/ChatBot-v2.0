@@ -1,5 +1,5 @@
 # ChatBot-v2.0 -Inprogress
-This is a fan project with friends on study.\n
+This is a fan project with friends on study.
 GUI.py - Main file
 
 Required Libraries:
